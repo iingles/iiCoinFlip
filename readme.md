@@ -1,16 +1,16 @@
-# INFO 1200 Participation 12
+# INFO 1200 Participation 13
 ### Fall 2020
 
-## Cups to Ounces converter
+## Coin Flip
 
 --- 
 **Code**
- - [XAML Code](https://github.com/iingles/iiCustomMethodCups/blob/master/iiCustomMethodCups/MainPage.xaml)
- - [C# Code](https://github.com/iingles/iiCustomMethodCups/blob/master/iiCustomMethodCups/MainPage.xaml.cs)
+ - [XAML Code](https://github.com/iingles/iiCoinFlip/blob/master/iiCoinFlip/MainPage.xaml)
+ - [MainPage C# Code](https://github.com/iingles/iiCoinFlip/blob/master/iiCoinFlip/MainPage.xaml.cs)
+ - [Coin Class C# Code](https://github.com/iingles/iiCoinFlip/blob/master/iiCoinFlip/Coin.cs)
 
 **Screenshots**
- - [4 Cups Result](https://github.com/iingles/iiCustomMethodCups/blob/master/4-cups.jpg)
- - [2.5 Cups with keypad](https://github.com/iingles/iiCustomMethodCups/blob/master/2-5-cups-keypad.jpg)
- - [2.5 Cups Result](https://github.com/iingles/iiCustomMethodCups/blob/master/2-5-cups-result.jpg)
- - [Invalid Entry " . " with keypad](https://github.com/iingles/iiCustomMethodCups/blob/master/invalid-entry-keypad.jpg)
- - [Invalid Entry Alert](https://github.com/iingles/iiCustomMethodCups/blob/master/invalid-entry-alert.jpg)
+ - [Main Screen](https://github.com/iingles/iiCoinFlip/blob/master/main-screen.jpg)
+ - [1x Result](https://github.com/iingles/iiCoinFlip/blob/master/1x-result.jpg)
+ - [5x Result](https://github.com/iingles/iiCoinFlip/blob/master/5x-results.jpg)
+
